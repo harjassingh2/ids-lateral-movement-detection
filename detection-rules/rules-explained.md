@@ -1,4 +1,4 @@
-# Detection Rules — Overview
+# Detection Rules - Overview
 
 Custom Zeek scripts and Suricata rules were written for every scenario.
 This file explains what each rule detects and why it works.
