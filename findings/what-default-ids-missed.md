@@ -5,7 +5,7 @@ across the 14 scenarios tested.
 
 ---
 
-## Suricata — Default Rule Gaps
+## Suricata - Default Rule Gaps
 
 | Scenario | Default Result | Why It Failed |
 |---|---|---|
