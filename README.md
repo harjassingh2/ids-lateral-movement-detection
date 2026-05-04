@@ -90,3 +90,12 @@ Full results analysis in [`findings/`](./findings/).
 - Extend to **east-west encrypted traffic analysis** using JA3/JA3S fingerprinting for TLS-based C2 detection without decryption
 
 ---
+
+## Repository Structure
+
+| Folder | Contents |
+|---|---|
+| [`lab-setup/`](./lab-setup/) | VM configuration, network topology, dual interface design |
+| [`attack-simulation/`](./attack-simulation/) | 14 MITRE ATT&CK scenarios, tools used, traffic methodology |
+| [`detection-rules/`](./detection-rules/) | Custom Zeek scripts, Suricata rules, plain-English explanations |
+| [`findings/`](./findings/) | What default IDS missed, results summary, false positive analysis |
