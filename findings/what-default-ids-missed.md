@@ -40,5 +40,5 @@ Default IDS tools are built around known signatures — exploit strings, malware
 blacklisted IPs. Post-compromise lateral movement doesn't look like any of those.
 An attacker using valid credentials over SMB, SSH, or HTTPS leaves no signature to match.
 
-Custom detection engineering — behavioural thresholds, protocol metadata analysis,
-and multi-log correlation — was required to close these gaps.
+Custom detection engineering - behavioural thresholds, protocol metadata analysis,
+and multi-log correlation - was required to close these gaps.
